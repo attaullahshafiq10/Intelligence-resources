@@ -1,21 +1,6 @@
 # Intellingence-Resources
 
 
-### General Links
-
-TCM-Security: https://tcm-sec.com/
-
-Links to Course:
-* Udemy: https://www.udemy.com/course/osint-fundamentals/
-* TCM-Academy: https://academy.tcm-sec.com/p/osint-fundamentals
-
-Twitter: https://twitter.com/thecybermentor
-
-Twitch: https://twitch.tv/thecybermentor
-
-YouTube: https://youtube.com/c/thecybermentor
-
-Discord: https://tcm-sec.com/discord/
 
 ### Note Keeping
 
