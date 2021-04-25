@@ -16,6 +16,8 @@ OneNote - https://onenote.com/
 
 Greenshot - https://getgreenshot.org/
 
+Sublime - https://www.sublimetext.com/
+
 Flameshot - https://github.com/flameshot-org/flameshot
 
 ### Sock Puppets
